@@ -1,5 +1,5 @@
 var tocConfig = {
-  url: "https://linuxers.me",
+  url: "https://www.linuxers.me",
   feedNum: 6,
   labelName: (window.location.hash && window.location.hash != "#0" && window.location.hash != "#search") ? encodeURIComponent(window.location.hash.substr(1)) : false,
   numChars: 140,
